@@ -1,9 +1,11 @@
 # Quiz_Game
 Computer Quiz Game using Python3
+
 ## Features
 This is a simple command line quiz game created using only Python.
-The game asks basic computer related questions and checks the user's answers.
+
 ## How the Game works
+The game asks basic computer related questions and checks the user's answers.
 The quiz ends automatically if the user gives three wrong answers.
 At the end of the game, the total score and performance message are displayed.
 
